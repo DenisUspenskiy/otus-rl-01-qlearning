@@ -1,3 +1,3 @@
-# otus-rl-01-qlearning
+# Some RL algorithms realisation with gym and pytorch
 
-Реализован алгоритм QLearning для среды Gym TaxyV3
+
